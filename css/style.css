@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(56, 68, 38) !important;
+
+}
+ul a li{
+    list-style: none;
+}
+ul a{
+    text-decoration: none;
+    height: fit-content !important;
+}
+
+#welcome-section{
+    height: 100vh !important;
+    background-color: gray;
+    width: 100%;}
+.one{
+    margin-top: 40vh !important;
+    margin-left: 15vw !important;
+    color: white;
+}
+main{
+    background-color: rgb(56, 68, 38);
+    height: 100vh !important;
+    margin-top: -15% !important;
+}
